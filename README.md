@@ -6,4 +6,4 @@ Lcd Module<br>
 Ds18b20 Sensor<br>
 HeartBeat rate Sensor<br>
 Sim card<br>
-Jumpee Wires<br>
+Jumper Wires
